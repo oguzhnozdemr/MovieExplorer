@@ -25,20 +25,20 @@ Ekran Görüntüleri
 <img src="screenshots/NotEkrani.jpg" alt="Not Ekleme Ekranı" width="40%" />
 
 ---
-Uygulama Mimarisi
--Uygulama Kotlin'in modern özelliklerinden faydalanarak hybrid bir veri mimarisi kullanmaktadır:
+## Uygulama Mimarisi
+- Uygulama Kotlin'in modern özelliklerinden faydalanarak hybrid bir veri mimarisi kullanmaktadır:
 
--Film Verileri: Film bilgileri API'den çekilir ve Room veritabanında önbelleğe alınır. Bu sayede API çağrıları optimize edilir.
--Kullanıcı Verileri: Kullanıcı hesapları Firebase Authentication ile yönetilir.
--Yorumlar ve Etkileşimler: Kullanıcı yorumları ve beğeniler Firebase Firestore'da saklanır, böylece gerçek zamanlı güncellemeler sağlanır.
+- Film Verileri: Film bilgileri API'den çekilir ve Room veritabanında önbelleğe alınır. Bu sayede API çağrıları optimize edilir.
+- Kullanıcı Verileri: Kullanıcı hesapları Firebase Authentication ile yönetilir.
+- Yorumlar ve Etkileşimler: Kullanıcı yorumları ve beğeniler Firebase Firestore'da saklanır, böylece gerçek zamanlı güncellemeler sağlanır.
 
--Bu yapı sayesinde uygulama hem performanslı hem de etkileşimli bir kullanıcı deneyimi sunar.
--Kullanıcı Arayüzü
--Uygulama tasarımında Cursor kullanılarak modern ve etkileşimli bir kullanıcı deneyimi hedeflenmiştir. Cursor bileşenleri özellikle aşağıdaki alanlarda kullanılmıştır:
--Navigasyon elemanları
--Film listeleme ekranları
--Yorum alanları
--Kullanıcı etkileşim noktaları
+- Bu yapı sayesinde uygulama hem performanslı hem de etkileşimli bir kullanıcı deneyimi sunar.
+- Kullanıcı Arayüzü
+- Uygulama tasarımında Cursor kullanılarak modern ve etkileşimli bir kullanıcı deneyimi hedeflenmiştir. Cursor bileşenleri özellikle aşağıdaki alanlarda kullanılmıştır:
+- Navigasyon elemanları
+- Film listeleme ekranları
+- Yorum alanları
+- Kullanıcı etkileşim noktaları
 
 ---
 ## 🛠️ Teknoloji Yığını
