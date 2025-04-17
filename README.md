@@ -26,7 +26,7 @@ Ekran Görüntüleri
 
 ---
 ## Uygulama Mimarisi
-- Uygulama Kotlin'in modern özelliklerinden faydalanarak hybrid bir veri mimarisi kullanmaktadır:
+- Uygulama Kotlin'in modern özelliklerinden faydalanarak hybrid bir veri mimarisi kullanmaktadır.
 
 - Film Verileri: Film bilgileri API'den çekilir ve Room veritabanında önbelleğe alınır. Bu sayede API çağrıları optimize edilir.
 - Kullanıcı Verileri: Kullanıcı hesapları Firebase Authentication ile yönetilir.
