@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KotlinCountries"
+rootProject.name = "MovieExplorer"
 include(":app")
  

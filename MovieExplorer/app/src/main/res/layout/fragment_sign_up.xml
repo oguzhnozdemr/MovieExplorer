@@ -176,102 +176,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/checkBoxTerms" />
 
-            <!-- Or Divider -->
-            <LinearLayout
-                android:id="@+id/dividerOr"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="24dp"
-                android:gravity="center"
-                android:orientation="horizontal"
-                app:layout_constraintTop_toBottomOf="@id/buttonSignUp">
 
-                <View
-                    android:layout_width="0dp"
-                    android:layout_height="1dp"
-                    android:layout_weight="1"
-                    android:background="@color/colorDivider" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="16dp"
-                    android:fontFamily="@font/montserrat"
-                    android:text="OR"
-                    android:textColor="@color/colorSecondaryText"
-                    android:textSize="14sp" />
-
-                <View
-                    android:layout_width="0dp"
-                    android:layout_height="1dp"
-                    android:layout_weight="1"
-                    android:background="@color/colorDivider" />
-            </LinearLayout>
-
-            <!-- Social Sign Up Buttons -->
-            <LinearLayout
-                android:id="@+id/layoutSocialButtons"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="24dp"
-                android:gravity="center"
-                android:orientation="horizontal"
-                app:layout_constraintTop_toBottomOf="@id/dividerOr">
-
-                <!-- Google Button -->
-                <com.google.android.material.card.MaterialCardView
-                    android:id="@+id/cardGoogle"
-                    android:layout_width="48dp"
-                    android:layout_height="48dp"
-                    android:layout_marginEnd="16dp"
-                    app:cardCornerRadius="24dp"
-                    app:cardElevation="2dp"
-                    app:strokeColor="@color/colorDivider"
-                    app:strokeWidth="1dp">
-
-                    <ImageView
-                        android:layout_width="24dp"
-                        android:layout_height="24dp"
-                        android:layout_gravity="center"
-                        android:src="@drawable/ic_google" />
-                </com.google.android.material.card.MaterialCardView>
-
-                <!-- Facebook Button -->
-                <com.google.android.material.card.MaterialCardView
-                    android:id="@+id/cardFacebook"
-                    android:layout_width="48dp"
-                    android:layout_height="48dp"
-                    android:layout_marginHorizontal="16dp"
-                    app:cardCornerRadius="24dp"
-                    app:cardElevation="2dp"
-                    app:strokeColor="@color/colorDivider"
-                    app:strokeWidth="1dp">
-
-                    <ImageView
-                        android:layout_width="24dp"
-                        android:layout_height="24dp"
-                        android:layout_gravity="center"
-                        android:src="@drawable/ic_facebook" />
-                </com.google.android.material.card.MaterialCardView>
-
-                <!-- Twitter Button -->
-                <com.google.android.material.card.MaterialCardView
-                    android:id="@+id/cardTwitter"
-                    android:layout_width="48dp"
-                    android:layout_height="48dp"
-                    android:layout_marginStart="16dp"
-                    app:cardCornerRadius="24dp"
-                    app:cardElevation="2dp"
-                    app:strokeColor="@color/colorDivider"
-                    app:strokeWidth="1dp">
-
-                    <ImageView
-                        android:layout_width="24dp"
-                        android:layout_height="24dp"
-                        android:layout_gravity="center"
-                        android:src="@drawable/ic_twitter" />
-                </com.google.android.material.card.MaterialCardView>
-            </LinearLayout>
 
             <!-- Login Link -->
             <LinearLayout
@@ -284,7 +189,7 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@id/layoutSocialButtons"
+                app:layout_constraintTop_toBottomOf="@id/buttonSignUp"
                 app:layout_constraintVertical_bias="1.0">
 
                 <TextView
