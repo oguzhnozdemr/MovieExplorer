@@ -24,6 +24,20 @@ Ekran Görüntüleri
 <img src="screenshots/FilmDetayEkrani.jpg" alt="Film Detay Ekranı" width="40%" />
 <img src="screenshots/NotEkrani.jpg" alt="Not Ekleme Ekranı" width="40%" />
 
+
+
+---
+## 🛠️ Teknoloji Yığını
+
+- **Dil:** Kotlin  
+- **Mimari:** MVVM (Model-View-ViewModel)  
+- **Arayüz Bağlama:** DataBinding  
+- **Asenkron İşlemler:** Kotlin Coroutines  
+- **Veri Önbelleği:** Room Database (API çağrılarını azaltmak için)  
+- **Ağ İstekleri:** Retrofit ve RxJava  
+- **Kullanıcı Yönetimi:** Firebase Authentication  
+- **Bulut Veritabanı:** Firebase Firestore (yorumlar ve kullanıcı verileri için)  
+- **UI Bileşenleri:** Cursor ve modern Material Design komponentleri  
 ---
 ## Uygulama Mimarisi
 - Uygulama Kotlin'in modern özelliklerinden faydalanarak hybrid bir veri mimarisi kullanmaktadır.
@@ -39,16 +53,4 @@ Ekran Görüntüleri
 - Film listeleme ekranları
 - Yorum alanları
 - Kullanıcı etkileşim noktaları
-
 ---
-## 🛠️ Teknoloji Yığını
-
-- **Dil:** Kotlin  
-- **Mimari:** MVVM (Model-View-ViewModel)  
-- **Arayüz Bağlama:** DataBinding  
-- **Asenkron İşlemler:** Kotlin Coroutines  
-- **Veri Önbelleği:** Room Database (API çağrılarını azaltmak için)  
-- **Ağ İstekleri:** Retrofit ve RxJava  
-- **Kullanıcı Yönetimi:** Firebase Authentication  
-- **Bulut Veritabanı:** Firebase Firestore (yorumlar ve kullanıcı verileri için)  
-- **UI Bileşenleri:** Cursor ve modern Material Design komponentleri  
