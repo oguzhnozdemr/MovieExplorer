@@ -24,12 +24,12 @@ UI Bileşenleri: Cursor ve modern Material Design komponentleri
 
 Ekran Görüntüleri
 
-markdown![Ana Ekran](screenshots/GirisEkrani.jpg)
-markdown![Kullanıcı Kayıt Ekranı](screenshots/KullaniciKayitEkrani.jpg)
-markdown![Film Ekranı](screenshots/FilmlerEkrani.jpg)
-markdown![Favor Film Ekranı](screenshots/FavoriFilmlerEkrani.jpg)
-markdown![Film Detay Ekranı](screenshots/FilmDetayEkrani.jpg)
-markdown![Not Ekleme Ekranı](screenshots/NotEkrani.jpg)
+<img src="screenshots/GirisEkrani.jpg" alt="Ana Ekran" width="40%" />
+<img src="screenshots/KullaniciKayitEkrani.jpg" alt="Kullanıcı Kayıt Ekranı" width="40%" />
+<img src="screenshots/FilmlerEkrani.jpg" alt="Film Ekranı" width="40%" />
+<img src="screenshots/FavoriFilmlerEkrani.jpg" alt="Favori Film Ekranı" width="40%" />
+<img src="screenshots/FilmDetayEkrani.jpg" alt="Film Detay Ekranı" width="40%" />
+<img src="screenshots/NotEkrani.jpg" alt="Not Ekleme Ekranı" width="40%" />
 
 
 Uygulama Mimarisi
