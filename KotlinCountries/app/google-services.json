@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909121128758",
+    "project_id": "movieexplorerkotlinapp",
+    "storage_bucket": "movieexplorerkotlinapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909121128758:android:b6f6fbde9da166dac90b97",
+        "android_client_info": {
+          "package_name": "com.oguzhanozdemir.kotlincountries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYhsEL9FAJ7YajIqMem14UdmuA-t9vcX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
