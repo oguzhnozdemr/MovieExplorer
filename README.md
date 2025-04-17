@@ -10,7 +10,7 @@
 - 🎞️ **Film Keşfi:** Geniş film kütüphanesine türlerine göre erişim  
 - 🔎 **Arama Fonksiyonu:** Film adına göre arama yapabilme  
 - 💬 **Sosyal Etkileşim:** Filmler hakkında yorum yapma ve başkalarının yorumlarını beğenme  
-- ❤️ **Favori Listesi:** Beğendiğiniz filmleri favori listenize ekleyerek daha sonra izlemek üzere kaydetme  
+- ❤️ **Favori Listesi:** Beğendiğiniz filmleri favori listenize ekleme 
 - 🧠 **Önbellek Sistemi:** Room Database ile API çağrılarını optimize etme ve verileri yerel olarak saklama  
 - ✨ **Modern UI:** Cursor ve diğer modern tasarım öğeleri kullanılarak geliştirilmiş kullanıcı arayüzü  
 
