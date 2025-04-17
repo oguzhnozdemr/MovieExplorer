@@ -17,12 +17,12 @@
 ---
 Ekran Görüntüleri
 
-<img src="screenshots/GirisEkrani.jpg" alt="Ana Ekran" width="40%" />
-<img src="screenshots/KullaniciKayitEkrani.jpg" alt="Kullanıcı Kayıt Ekranı" width="40%" />
-<img src="screenshots/FilmlerEkrani.jpg" alt="Film Ekranı" width="40%" />
-<img src="screenshots/FavoriFilmlerEkrani.jpg" alt="Favori Film Ekranı" width="40%" />
-<img src="screenshots/FilmDetayEkrani.jpg" alt="Film Detay Ekranı" width="40%" />
-<img src="screenshots/NotEkrani.jpg" alt="Not Ekleme Ekranı" width="40%" />
+<img src="screenshots/GirisEkrani.jpg" alt="Ana Ekran" width="20%" />
+<img src="screenshots/KullaniciKayitEkrani.jpg" alt="Kullanıcı Kayıt Ekranı" width="20%" />
+<img src="screenshots/FilmlerEkrani.jpg" alt="Film Ekranı" width="20%" />
+<img src="screenshots/FavoriFilmlerEkrani.jpg" alt="Favori Film Ekranı" width="20%" />
+<img src="screenshots/FilmDetayEkrani.jpg" alt="Film Detay Ekranı" width="20%" />
+<img src="screenshots/NotEkrani.jpg" alt="Not Ekleme Ekranı" width="20%" />
 
 
 
